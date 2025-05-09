@@ -1,0 +1,6 @@
+Assembly Accession	Assembly Name	Organism Name	Organism Taxonomic ID	Assembly Level	Assembly Release Date	Assembly Sequencing Tech	Assembly Submitter	Assembly BioProject Accession	Assembly BioSample Accession
+GCA_000001405.28	GRCh38.p13	Homo sapiens	9606	Chromosome	2019-02-28	Sanger; Illumina; PacBio	Genome Reference Consortium	PRJNA168	SAMN00000001
+GCA_000001635.9	GRCm39	Mus musculus	10090	Chromosome	2020-06-01	Illumina; PacBio	Genome Reference Consortium	PRJNA83591	SAMN00000002
+GCA_000002315.5	BDGP6	Drosophila melanogaster	7227	Chromosome	2014-07-24	Sanger; Illumina	FlyBase	PRJNA112	SAMN00000003
+GCA_000001635.1	WBcel235	Caenorhabditis elegans	6239	Chromosome	2013-05-20	Sanger; Illumina	WormBase	PRJNA13758	SAMN00000004
+GCA_000005845.2	ASM584v2	Escherichia coli K-12 MG1655	511145	Complete Genome	2014-04-01	Sanger	University of Wisconsin-Madison	PRJNA57779	SAMN00000005
